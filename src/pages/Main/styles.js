@@ -9,7 +9,7 @@ export const Container = styled.View`
 
 export const Content = styled.View`
   flex: 1;
-  max-height: 400px;
+  max-height: 290px;
   z-index: 5;
 `;
 
